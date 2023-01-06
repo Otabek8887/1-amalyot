@@ -1,0 +1,1 @@
+let nimaMagap = 652
